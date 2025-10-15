@@ -1,43 +1,38 @@
 # JaruratCare
 
-JaruratCare is a healthcare platform for managing patient records and dashboards, built with React and Vite.
+JaruratCare is an open-source project developed to address essential needs with a focus on care, support, and accessibility. This repository is designed for ease of use, extensibility, and community collaboration.
 
 ## Features
 
-- Patient record management
-- Dashboard overview for healthcare providers
-- Fast development with Vite and HMR
-- ESLint for code quality
+- User-friendly interface
+- Core functionalities implemented in JavaScript
+- MIT License for open contributions
+- Publicly accessible and open for improvements
 
-## Installation
+## Live Demo Screenshots
+
+To help you get started and provide a visual understanding of the project, **live demo screenshots are placed in the `assets` folder**. Please refer to that directory for a walkthrough of the app's interface and features.
+
+## Getting Started
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/harika300805/JaruratCare.git
-    cd JaruratCare
-    ```
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
-3. Start the development server:
-    ```bash
-    npm run dev
-    ```
-
-## Usage
-
-- Open [http://localhost:5173](http://localhost:5173) in your browser after starting the dev server.
-- Use the dashboard to view and update patient records.
+   ```bash
+   git clone https://github.com/harika300805/JaruratCare.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd JaruratCare
+   ```
+3. Install dependencies and follow any additional setup instructions (if available in project files).
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome! Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).
 
-## Contact
+---
 
-Created by [harika300805](https://github.com/harika300805)
+For more information, visit the [JaruratCare GitHub repository](https://github.com/harika300805/JaruratCare).
