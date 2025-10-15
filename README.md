@@ -1,18 +1,43 @@
-# React + Vite
+# JaruratCare
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JaruratCare is a healthcare platform for managing patient records and dashboards, built with React and Vite.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Patient record management
+- Dashboard overview for healthcare providers
+- Fast development with Vite and HMR
+- ESLint for code quality
 
-## React Compiler
+## Installation
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/harika300805/JaruratCare.git
+    cd JaruratCare
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the development server:
+    ```bash
+    npm run dev
+    ```
 
-Note: This will impact Vite dev & build performances.
+## Usage
 
-## Expanding the ESLint configuration
+- Open [http://localhost:5173](http://localhost:5173) in your browser after starting the dev server.
+- Use the dashboard to view and update patient records.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Created by [harika300805](https://github.com/harika300805)
