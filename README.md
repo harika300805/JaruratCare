@@ -2,6 +2,11 @@
 
 JaruratCare is an open-source project developed to address essential needs with a focus on care, support, and accessibility. This repository is designed for ease of use, extensibility, and community collaboration.
 
+## Live Demo
+
+🚀 **Check out the live app:**  
+[https://jarurat-care-kappa.vercel.app/](https://jarurat-care-kappa.vercel.app/)
+
 ## Features
 
 - User-friendly interface
